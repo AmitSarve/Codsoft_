@@ -1,0 +1,5 @@
+ - **1. Add Task**: Adds a new task to the list. You will be prompted to enter a description for the task.
+   - **2. View Tasks**: Displays all tasks currently in the list along with their completion status.
+   - **3. Complete Task**: Marks a task as completed. You will be asked to select the task you want to mark as completed.
+   - **4. Delete Task**: Removes a task from the list. You will be prompted to select the task you want to delete.
+   - **5. Quit**: Exits the program....
